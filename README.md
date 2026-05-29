@@ -1,2 +1,1 @@
-# clover-boot
-clover bot discord melhor bot 
+# Clover Bot\n\nBot Discord avançado com IA, economia, moderação e sistema VIP.
